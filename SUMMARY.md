@@ -2,6 +2,7 @@
 
 * [学科介绍](README.md)
 * [公开课营销](openvideo.md)
+* [学科资源管理](source.md)
 * [python基础班](part/base.md)
     * [Linux基本操作](base/section1.md)
     * [python基础语法](base/section2.md)
