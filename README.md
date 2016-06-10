@@ -6,8 +6,8 @@
 | ------ | ---------- | ----------- | ----  |
 | 王铭东 | python讲师 | 13146060336| wangmingdong@itcast.cn  |
 | 孔德海 | tornado讲师 | 18516952650 | kongdehai@itcast.cn  |
-| 刘岐 | 前端讲师 | | @itcast.cn  |
-|谢福顺  | 前端讲师 |  | luoxingbo@itcast.cn  |
+| 刘岐 | 前端讲师 |18932902575 | liuqi@itcast.cn  |
+|谢福顺  | 前端讲师 | 18210568518 | luoxingbo@itcast.cn  |
 | 罗兴波 | django讲师 | 18510970406 | luoxingbo@itcast.cn  |
 | 陈恩龙 | 爬虫讲师 | 18640087973 | chenenlong@itcast.cn  |
 |邢文鹏  | linux讲师 | 18611198863| xingwenpeng@itcast.cn  |
@@ -37,4 +37,6 @@
 |    11  |  python基础语法     | 王铭东       |        |
 |      12|  html基础| 王铭东       |        |
 |      13|  css基础| 王铭东       |        |
-|      14|  项目:网页爬虫| 王铭东       |        |
+|      14|  项目:网页爬虫| 王铭东 | |
+
+助教:毛兆军
