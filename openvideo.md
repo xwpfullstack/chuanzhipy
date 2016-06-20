@@ -124,7 +124,8 @@ Python的数据处理相关类库非常多，高性能的计算类库NumPy和Sci
 1. 大数据简介
 2. spark基本原理
 3. PySpark配置应用
-4. 数据加载到RDD5.csv读取文件内容
+4. 数据加载到RDD
+5. csv读取文件内容
 6. matplotlib生成分析表格
 7. 案例演示
 
